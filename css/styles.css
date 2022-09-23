@@ -57,7 +57,7 @@ body {
 }
 
 .registro {
-  background-color: aquamarine;
+  /*background-color: aquamarine;*/
   width: 130px;
   height: 80px;
   left: 600px;
@@ -113,7 +113,7 @@ body {
   left: 730px;
   top: 189px;
   position: relative;
-  background-color: aqua;
+  /*background-color: aqua;*/
   
 }
 
@@ -139,7 +139,7 @@ body {
 }
 
 .botones {
-  background-color: rgb(0, 89, 255);
+  /*background-color: rgb(0, 89, 255);*/
   width: 410px;
   height: 40px;
   left:730px;
